@@ -1,5 +1,6 @@
 # Hi I'm Leonela 
 
+
 ## About me
 
 Hola soy Kimberly y estudio en EGG
@@ -11,3 +12,8 @@ Hacer el cierre de la presentacion, invitando a contactar al cel nº
 ## Skills
 
 - Coaching
+
+## Hobbies
+
+- Learning 
+- Dancing
